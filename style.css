@@ -1,0 +1,24 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+/*CSS vem aqui em biaxo*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+body a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+}
+
+body a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    color:blue;
+}
+
+.icone {
+    fill: aquamarine;
+}
