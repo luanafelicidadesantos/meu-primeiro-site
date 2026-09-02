@@ -4,7 +4,7 @@
 }
 /*CSS vem aqui em biaxo*/
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body a {
@@ -20,5 +20,20 @@ body a:hover {
 }
 
 .icone {
-    fill: aquamarine;
+    fill: #000507;
+    stroke: #ffffff;
+    stroke-width: 5px;
+    width: 75px;
+    height: 75px;
+}
+
+footer {
+    background-color: #2d66cf;
+    color:#ffffff;
+}
+
+footer ul {
+     display: flex;
+     justify-content: space-around;
+     list-style-type: none;
 }
