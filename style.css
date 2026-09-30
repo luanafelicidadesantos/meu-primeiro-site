@@ -37,3 +37,27 @@ footer ul {
      justify-content: space-around;
      list-style-type: none;
 }
+
+* {
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+
+/* CSS vem aqui em baixo*/
+
+.modoEscuro {
+    background-color:rgb(0, 89, 255);
+}
+
+.modoClaro  {
+    background-color:rgb(59, 221, 221);
+}
+
+
+
+
+
+
+
+
